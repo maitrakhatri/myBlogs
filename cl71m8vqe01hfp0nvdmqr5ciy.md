@@ -84,9 +84,9 @@ That is exactly what coding does !!! Making something out of nothing !!!
 
 Plus I also knew that I'm good at it that I can program, I can deal with all the logical and complex stuff. 
 
-Then my community members explained me and convinced me that "No experience is every wasted in life, now or later it will help you. So if you think code is a better career choice then channelize your energy towards it" and more such things.
+Then my community members explained me and convinced me that "No experience is ever wasted in life, now or later it will help you. So if you think code is a better career choice then channelize your energy towards it" and more such things.
 
-The very next day I find the **neoG Camp levelZero** playlist and I watch the fist video, followed the tutorial. Instantly felt amazing, loved it !!! And found out that levelOne admissions are closing in 10 days. I hurried up and completed till Mark 15 in 6-7 days. I used to watch and code for like 10 hrs in a day. 
+The very next day I find the **neoG Camp levelZero** playlist and I watch the first video, followed the tutorial. Instantly felt amazing, loved it !!! And found out that levelOne admissions are closing in 10 days. I hurried up and completed till Mark 15 in 6-7 days. I used to watch and code for like 10 hrs in a day. 
 
 I didn't wanted to miss the golden opportunity. And today we are here I have completed my Frontend Web Development from neoG levelOne. Soon will complete my fullstack projects too.
 
